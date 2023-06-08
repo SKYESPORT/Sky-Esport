@@ -1,2 +1,36 @@
-# Sky-Esport
-Site d'une team Esport
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+    background: #1d1e22;
+    --c1: #000000;
+    --c2: #0037ff;
+    background-image: -webkit-linear-gradient(top, var(--c1), var(--c2));
+    background-image: -moz-linear-gradient(top, var(--c1), var(--c2)));
+    background-image: -o-linear-gradient(top, var(--c1), var(--c2)));
+    background-image: -ms-linear-gradient(top, var(--c1), var(--c2)));
+    background-image: linear-gradient(top, var(--c1), var(--c2)));
+}
+
+html {
+    height: 100vh;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0;
+}
+
+p {
+    color: rgb(255, 247, 247);
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
