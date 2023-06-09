@@ -9,7 +9,7 @@ body {
     height: 100vh;
     width: 100vw;
     background: #1d1e22;
-    --c1: #cd06ff;
+    --c1: #535151;
     --c2: #0037ff;
     background-image: -webkit-linear-gradient(top, var(--c1), var(--c2));
     background-image: -moz-linear-gradient(top, var(--c1), var(--c2)));
